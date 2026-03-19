@@ -82,12 +82,12 @@ Hey there! I'm a Junior BSIT Student and I'm an aspiring **Data Analyst**. I lov
 
 ### 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=06b6d4)
-![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=3b82f6)
-![Tableau](https://img.shields.io/badge/Tableau-1e293b?style=flat-square&logo=tableau&logoColor=E97627)
-![Power BI](https://img.shields.io/badge/Power%20BI-1e293b?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/Excel-1e293b?style=flat-square&logo=microsoftexcel&logoColor=217346)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-1e293b?style=flat-square&logo=googlesheets&logoColor=34A853)
+![Python]
+![SQL]
+![Tableau]
+![Power BI]
+![Excel]
+![Google Sheets]
 
 ---
 
