@@ -82,12 +82,7 @@ Hey there! I'm a Junior BSIT Student and I'm an aspiring **Data Analyst**. I lov
 
 ### 🛠 Tech Stack
 
-![Python]
-![SQL]
-![Tableau]
-![Power BI]
-![Excel]
-![Google Sheets]
+Python, SQL, Tableau, Power BI, Excel, Google Sheets
 
 ---
 
