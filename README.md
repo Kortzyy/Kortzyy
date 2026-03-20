@@ -81,8 +81,8 @@ Hey there! I'm a Junior (3rd Year) BSIT Student and I'm an aspiring **Data Analy
 ---
 
 ### 🛠 Tech Stack
-
-Python, SQL, Tableau, Power BI, Excel, Google Sheets
+I'm not currently proficient in these techstacks but I'm learning and enhancing my skills on these things
+HTML, CSS, JavaScript, Python, SQL, Tableau, Power BI, Excel, Google Sheets
 
 ---
 
