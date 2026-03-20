@@ -33,7 +33,7 @@
   <rect x="0" y="0" width="860" height="3" rx="0" fill="url(#accent)"/>
 
   <text x="310" y="80" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#94a3b8" letter-spacing="2" text-anchor="middle">Hello, I'm</text>
-  <text x="310" y="128" font-family="'Segoe UI', Arial, sans-serif" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">Kurt Russel B. Zarate</text>
+  <text x="310" y="128" font-family="'Segoe UI', Arial, sans-serif" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle">Kurt Russel Zarate</text>
   <rect x="170" y="138" width="280" height="2.5" rx="2" fill="url(#accent)"/>
 
   <rect x="200" y="158" width="140" height="26" rx="13" fill="#06b6d4" opacity="0.15"/>
