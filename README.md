@@ -38,7 +38,7 @@
 
   <rect x="200" y="158" width="140" height="26" rx="13" fill="#06b6d4" opacity="0.15"/>
   <rect x="200" y="158" width="140" height="26" rx="13" fill="none" stroke="#06b6d4" stroke-width="0.8" opacity="0.5"/>
-  <text x="270" y="175" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#67e8f9" text-anchor="middle">Data Analyst</text>
+  <text x="270" y="175" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#67e8f9" text-anchor="middle">Aspiring to be Data Analyst</text>
 
   <text x="310" y="222" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle">Transforming raw data into clear, actionable insights</text>
  
@@ -70,7 +70,7 @@
 
 ### About Me
 
-Hey there! I'm a Junior BSIT Student and I'm an aspiring **Data Analyst**. I love working with data — cleaning it, exploring it, and turning it into dashboards and insights that actually help people make better decisions.
+Hey there! I'm a Junior (3rd Year) BSIT Student and I'm an aspiring **Data Analyst**. I love working with data — cleaning it, exploring it, and turning it into dashboards and insights that actually help people make better decisions.
 
 - 📊 Passionate about data visualization and storytelling with data
 - 🧹 Enjoy the process of cleaning and structuring messy datasets
