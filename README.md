@@ -40,7 +40,7 @@
   <rect x="200" y="158" width="140" height="26" rx="13" fill="none" stroke="#06b6d4" stroke-width="0.8" opacity="0.5"/>
   <text x="270" y="175" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#67e8f9" text-anchor="middle">Aspiring to be Data Analyst</text>
 
-  <text x="310" y="222" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle">Transforming raw data into clear, actionable insights</text>
+  <text x="310" y="222" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle">Transforming raw data into clear, actionable insights.</text>
  
 
   <!-- Bar chart illustration -->
