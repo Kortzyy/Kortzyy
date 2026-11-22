@@ -22,28 +22,28 @@ I'm a fourth-year Bachelor of Science in Information Technology (BSIT) student w
 
 ### Technical Skills
 
-** Data Analytics & Statistics**
+**Data Analytics & Statistics**
 
 - Microsoft Excel, Google Sheets, Power BI
 - Data Collection, Data Cleaning, Exploratory Data Analysis (EDA)
 - Statistical Analysis, Data Interpretation, Data Visualization
 
-** Quality Assurance & Software Testing**
+**Quality Assurance & Software Testing**
 
 - Functional Testing, Software Benchmarking, Test Documentation
 - Grafana k6, Firebase Test Lab (Robo Test), Google Lighthouse, ADB
 
-** Programming & Databases**
+**Programming & Databases**
 
 - HTML, CSS, JavaScript, ReactJS, Electron
 - Python, Kotlin, XML, Flutter, Dart
 - MySQL, PostgreSQL, Supabase
 
-** Development & Productivity Tools**
+**Development & Productivity Tools**
 
 - Visual Studio Code, Android Studio, WEKA
 
-** AI-Assisted Tools**
+**AI-Assisted Tools**
 
 - ChatGPT, Claude, DeepSeek, Gemini
 
@@ -82,7 +82,7 @@ I use AI tools to support different aspects of my technical work, including:
 ---
 
 <div align="center">
-  <sub>Open to internships and entry-level opportunities in Data Analytics, Quality Assurance, and Information Technology 🚀</sub>
+  <sub>Open to internships and entry-level opportunities in Data Analytics, Quality Assurance, and Information Technology</sub>
   <br/>
   <sub>Always learning. Always improving.</sub>
 </div>
