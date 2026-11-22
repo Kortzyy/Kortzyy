@@ -58,16 +58,6 @@ I'm a fourth-year Bachelor of Science in Information Technology (BSIT) student w
 
 ---
 
-### AI-Assisted Tools
-
-I use AI tools to support different aspects of my technical work, including:
-
-- **Claude & ChatGPT:** Development assistance, technical problem-solving, and documentation.
-- **DeepSeek:** AI-assisted coding and frontend development support.
-- **Gemini:** Research assistance, technical learning, and productivity.
-
----
-
 ### GitHub Statistics
 
 <div align="center">
