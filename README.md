@@ -31,7 +31,7 @@ I'm a fourth-year Bachelor of Science in Information Technology (BSIT) student w
 **Quality Assurance & Software Testing**
 
 - Functional Testing, Software Benchmarking, Test Documentation
-- Grafana k6, Firebase Test Lab (Robo Test), Google Lighthouse, ADB
+- Grafana k6, Firebase Test Lab (Robo Test), Google Lighthouse, ADB Blockbox
 
 **Programming & Databases**
 
