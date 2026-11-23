@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Hi, I'm Kurt Russel Zarate — Aspiring Data Analyst | Quality Assurance | IT Professional" width="860"/>
+<img src="banner.svg" alt="Hi, I'm Kurt Russel Zarate — Aspiring Data Analyst | Quality Assurance | Software Developer" width="860"/>
 
 </div>
 
