@@ -72,7 +72,7 @@ I'm a fourth-year Bachelor of Science in Information Technology (BSIT) student w
 ---
 
 <div align="center">
-  <sub>Open to internships and entry-level opportunities in Data Analytics, Quality Assurance, and Information Technology</sub>
+  <sub>Open to internships and entry-level opportunities in Data Analytics, Quality Assurance, and Software Development</sub>
   <br/>
   <sub>Always learning. Always improving.</sub>
 </div>
