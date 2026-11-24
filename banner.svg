@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 280" width="860" height="280" role="img" xmlns:c2pa="http://c2pa.org/manifest">
-  <title>Hi, I'm Kurt Russel Zarate — Aspiring Data Analyst | Quality Assurance | IT Professional</title>
+  <title>Hi, I'm Kurt Russel Zarate — Aspiring Data Analyst | Quality Assurance | Software Development</title>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0f1117"/>
@@ -38,7 +38,7 @@
 
   <rect x="120" y="158" width="380" height="26" rx="13" fill="#06b6d4" opacity="0.15"/>
   <rect x="120" y="158" width="380" height="26" rx="13" fill="none" stroke="#06b6d4" stroke-width="0.8" opacity="0.5"/>
-  <text x="310" y="175" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#67e8f9" text-anchor="middle">Aspiring Data Analyst | Quality Assurance | IT Professional</text>
+  <text x="310" y="175" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#67e8f9" text-anchor="middle">Aspiring Data Analyst | Quality Assurance | Software Development</text>
 
   <text x="310" y="222" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle">Turning data into insights and technology into practical solutions</text>
 
