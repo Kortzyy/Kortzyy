@@ -66,7 +66,7 @@ I'm a fourth-year Bachelor of Science in Information Technology (BSIT) student w
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kortzyy&theme=tokyonight&hide_border=true&background=080c14&ring=00d4ff&fire=38bdf8&currStreakLabel=00d4ff" alt="Kortzyy's GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Kortzyy&theme=tokyonight&hide_border=true&background=080c14&ring=00d4ff&fire=38bdf8&currStreakLabel=00d4ff" alt="Kortzyy's GitHub streak" height="165"/>
 </div>
 
 ---
